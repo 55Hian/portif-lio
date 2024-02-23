@@ -1,0 +1,7 @@
+.cabecalho{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: #fff;
+    padding: 10px;
+    column-gap: 10px;
+}
